@@ -1,1 +1,4 @@
-hi
+telebot
+Flask
+aiogram
+pip install -r requirement.txt
