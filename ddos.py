@@ -4,7 +4,7 @@ import time
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = 'आपका_टेलीग्राम_बोट_टोकन'
+BOT_TOKEN = '7792663399:AAGGRAQe4hrlaRiWuKEnj0YcHvmsft9jcFQ'
 ADMIN_ID = 7792663399  # यहाँ अपना Telegram यूज़र ID डालें
 
 # TCP packets भेजने का फंक्शन
