@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 BOT_TOKEN = '7792663399:AAGGRAQe4hrlaRiWuKEnj0YcHvmsft9jcFQ'
-ADMIN_ID = 7792663399  # यहाँ अपना Telegram यूज़र ID डालें
+ADMIN_ID = 7968926183  # यहाँ अपना Telegram यूज़र ID डालें
 
 # TCP packets भेजने का फंक्शन
 def send_test_packets(ip, port, duration):
